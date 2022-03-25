@@ -1,0 +1,18 @@
+#header h1 { 
+    display: inline;
+}
+#header select { 
+    float: right;
+}
+
+#codeText{
+    width: 1519px;
+    height: 430px;
+    resize: none;   
+}
+
+#outputText{
+    width: 1519px;
+    height: 130px;
+    resize: none;   
+}
